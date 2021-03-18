@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @xacvwe
-- 👀 I’m interested in making random stuff on games
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing
+heya i do random roblox scripts lol
 
 <!---
 xacvwe/xacvwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
