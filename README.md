@@ -1,4 +1,4 @@
-heya i do random roblox scripts lol
+heya i do random roblox scripts lol or some random discord bots
 
 <!---
 xacvwe/xacvwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
